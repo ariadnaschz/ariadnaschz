@@ -58,6 +58,8 @@ I am currently strengthening my skills in **SQL, Machine Learning, and data-driv
 
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ### 📚 Other (basic/intermediate knowledge)
 
