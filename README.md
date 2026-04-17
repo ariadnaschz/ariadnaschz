@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ariada Sánchez</h1>
+<h1 align="center">Hi 👋 I'm Ariadna Sánchez</h1>
 
 <h3 align="center">Data Analyst | Data Science | Applied Mathematics Graduate</h3>
 
