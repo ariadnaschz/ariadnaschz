@@ -18,7 +18,7 @@ I am currently strengthening my skills in **SQL, Machine Learning, and data-driv
 * 🌱 Currently learning **Advanced SQL, Machine Learning & Data Engineering fundamentals**
 * 💡 Interested in **finance, optimization, and data-driven decision making**
 * 📫 Contact: **lizzetha.ss@gmail.com**
-* 🔗 LinkedIn: [My Linkedin](https://www.linkedin.com/in/l-ariadna-s%C3%A1nchez-solis/)
+* 🔗 LinkedIn: [L. Ariadna Sánchez Solis](https://www.linkedin.com/in/l-ariadna-s%C3%A1nchez-solis/)
 
 ---
 
